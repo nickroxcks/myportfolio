@@ -10,12 +10,12 @@ const Hero = (props) => (
     <LeftSection>
         <SectionTitle main center>
             Hi, <br />
-            I'm Nicholas Serrano
+            I'm Nicholas Serrano<br />
         </SectionTitle>
         <SectionText>
           "The only way to do great work, is to love what you do"
         </SectionText>
-        <Button onclick={() => window.location = "https://google.com"}>Learn More</Button>
+        <Button onclick={() => window.location = "https://google.com"}>Contact Me</Button>
     </LeftSection>
   </Section> 
 );

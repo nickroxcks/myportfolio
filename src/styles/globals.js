@@ -31,7 +31,10 @@ const GlobalStyles = createGlobalStyle`
   li{
     list-style: none;
   }
-
+  
+  .animated-logo {
+      height: 120px;
+  }
 `;
 
 export default GlobalStyles;
